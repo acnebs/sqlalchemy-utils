@@ -80,7 +80,7 @@ setup(
     platforms='any',
     install_requires=[
         'six',
-        'SQLAlchemy>=1.0'
+        'SQLAlchemy'
     ],
     extras_require=extras_require,
     classifiers=[
